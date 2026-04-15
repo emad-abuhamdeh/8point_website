@@ -1,0 +1,13 @@
+<svg width="520" height="520" viewBox="0 0 520 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="placeholderTitle2">
+  <title id="placeholderTitle2">Brand placeholder graphic</title>
+  <defs>
+    <radialGradient id="radial1" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#9EE07A" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </radialGradient>
+  </defs>
+  <rect width="520" height="520" rx="40" fill="#070b17" />
+  <circle cx="260" cy="260" r="170" fill="url(#radial1)" opacity="0.16" />
+  <path d="M170 210 C220 90 300 80 330 210 S270 380 190 310" stroke="#6CC04A" stroke-width="24" fill="none" stroke-linecap="round" />
+  <circle cx="260" cy="260" r="20" fill="#fff" opacity="0.9" />
+</svg>
